@@ -75,7 +75,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6955568347").split())
+    map(int, getenv("OWNER_ID", "1273463362").split())
 )  # Input type must be interger
 
 
@@ -109,10 +109,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/Dns_Official_Channel"
+    "SUPPORT_CHANNEL", "https://t.me/botzz_x_hub"
 )  # Example:- https://t.me/TheTeamVivek
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/DNS_NETWORK"
+    "SUPPORT_GROUP", "https://t.me/darky_x_support"
 )  # Example:- https://t.me/TheTeamVk
 
 
